@@ -1,4 +1,3 @@
 # signate
-SIGNATEのstudent_cup2022用のリポジトリ
+SIGNATEの用のリポジトリ
 
-もう終わってしまったので、データはダウンロードできない。
